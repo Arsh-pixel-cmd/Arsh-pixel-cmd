@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there 👋 I'm Arsh Mishra
 
-<!--
-**Arsh-pixel-cmd/Arsh-pixel-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+print("beautiful world!")
+```
 
-Here are some ideas to get you started:
+🎓 I'm a Computer Science Engineering student at IILM University, Greater Noida, passionate about turning ideas into impactful tech.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I specialize in full-stack web development with experience in:
+
+- **HTML, CSS, JavaScript**
+- **React, Node.js**
+- **API design & backend optimization**
+
+🚀 Currently diving deeper into:
+
+- Cloud computing ☁️
+- API development 🔗
+- Git & version control workflows 🔧
+
+💡 I love building scalable, user-focused solutions that solve real-world problems.
+
+🌱 Outside of code, I'm a vegan foodie exploring cultures through cuisine and always on the path of lifelong learning.
+
+📫 Let's connect & collaborate  
+🔗 [LinkedIn](https://www.linkedin.com/in/arsh-mishra/) 
