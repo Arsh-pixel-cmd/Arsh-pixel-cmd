@@ -23,4 +23,4 @@ print("beautiful world!")
 🌱 Outside of code, I'm a vegan foodie exploring cultures through cuisine and always on the path of lifelong learning.
 
 📫 Let's connect & collaborate  
-🔗 [LinkedIn](https://www.linkedin.com/in/arsh-mishra/) 
+🔗 [LinkedIn](https://www.linkedin.com/in/arsh-mishra-030093325/) 
