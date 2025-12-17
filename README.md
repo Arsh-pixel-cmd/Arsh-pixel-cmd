@@ -10,32 +10,33 @@ I'm a Computer Science Engineering student passionate about building fast, scala
 
 ## 🚀 Tech Stack
 
-### **Frontend**
-- HTML, CSS, JavaScript  
-- React, Next.js  
-- Tailwind CSS, Bootstrap  
-- Framer Motion, Anime.js  
-- Lenis (smooth scrolling) 
-- Swiper (mobile-first sliders)  
-- Google Fonts integration 
+### Frontend | Backend
+| Frontend                     |                         | Backend                         |                         |
+|-----------------------------|-------------------------|----------------------------------|-------------------------|
+| HTML                        |                         | Node.js                          |                         |
+| CSS                         |                         | Express.js                       |                         |
+| JavaScript                  |                         | MongoDB                          |                         |
+| React                       |                         | API Design & Optimization        |                         |
+| Next.js                     |                         | Clerk (Authentication)           |                         |
+| Tailwind CSS                |                         | VAPI (AI Integration)            |                         |
+| Bootstrap                   |                         |                                  |                         |
+| Framer Motion               |                         |                                  |                         |
+| Anime.js                    |                         |                                  |                         |
+| Lenis (Smooth Scrolling)    |                         |                                  |                         |
+| Swiper                      |                         |                                  |                         |
+| Google Fonts                |                         |                                  |                         |
 
-### **Backend**
-- Node.js, Express.js  
-- API design & optimization  
-- MongoDB  
-- Clerk (authentication system)  
-- VAPI (AI integration)
+### Programming Languages | DevOps / Hosting
+| Programming Languages       |                         | DevOps / Hosting                 |                         |
+|----------------------------|-------------------------|----------------------------------|-------------------------|
+| C                          |                         | Vercel                           |                         |
+| C++                        |                         | Render                           |                         |
+| Java                       |                         | Netlify                          |                         |
+| Python                     |                         |                                  |                         |
+| JavaScript                 |                         |                                  |                         |
+| TypeScript                 |                         |                                  |                         |
+| C#                         |                         |                                  |                         |
 
-### **Programming Languages**
-- C, C++  
-- Java, Python  
-- JavaScript, TypeScript  
-- C#
-
-### **DevOps / Hosting**
-- Vercel (deployment)  
-- Render (backend deployments)  
-- Netlify (static hosting)
 
 ---
 
